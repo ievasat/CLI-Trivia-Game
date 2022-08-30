@@ -29,7 +29,7 @@ git clone https://github.com/ievasat/CLI-Trivia-with-curses.git
 - Access project folder:
 
 ```
-cd CLI-Currency-Converter
+cd CLI-Trivia-Game
 ```
 
 - Using a virtual environment is recommended. Run following commands if you wish to use one:
