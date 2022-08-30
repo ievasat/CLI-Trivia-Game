@@ -23,7 +23,7 @@ When run for the first time, it creates sqlite3 database to keep track of stats.
 - First, clone the repository using command:
 
 ```
-git clone https://github.com/ievasat/CLI-Trivia-with-curses.git
+git clone https://github.com/ievasat/CLI-Trivia-Game.git
 ```
 
 - Access project folder:
