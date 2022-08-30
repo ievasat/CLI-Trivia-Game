@@ -87,8 +87,7 @@ class GameStatic:
                    ' * You will then get 10 multiple choice questions and answers.\n\n' \
                    ' * You get 10 points for each correct answer answered on a first try,\n' \
                    '\t6 points - second try, 2 points - third try.\n\n' + \
-                   " * Press 'Esc' to quit or 'ctrl-C' to restart at any time. \n\n" + \
-                   ' *** WARNING - do not resize this windows, doing so will restart the program.\n\n'
+                   " * Press 'Esc' to quit or 'ctrl-C' to restart at any time. \n\n"
     HEADERS = ['ID', 'Timestamp', 'Difficulty', 'Category', 'Score']
     SUMMARY_HEADERS = ['Quizzes Completed', 'Average Score', 'Best at', 'Worst at']
     TABLES = [
